@@ -1,11 +1,11 @@
 # Hi there 👋 I'm Ryan!
 
-## I am a full-stack developer, book and movie lover, hiker, climber, musician, and rower!!
+## I am a full-stack developer, book and movie lover, hiker, climber, and musician!
 
 - 🔭 I'm currently looking for work while improving past projects (like my food/activity tracking app [FuelRight](https://shielded-river-03532.herokuapp.com/)) and creating new ones!
 - 🌱 Right now, I am learning about mobile development, Kotlin, and data structures
 - 👯 I’m looking to collaborate with other developers to make something awesome in the mHealth or music space
-- ⚡ Fun fact: I love to play the guitar/keyboard and make music
+- ⚡ Fun fact: I love to play the guitar/keyboard and compose songs!
 
 <!-- [![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanhutzley)](https://github.com/anuraghazra/github-readme-stats) -->
 
