@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Ryan!
 
-## I am a full-stack developer, book and movie lover, hiker, climber, and rower!!
+## I am a full-stack developer, book and movie lover, hiker, climber, musician, and rower!!
 
 - 🔭 I'm currently looking for work while improving past projects (like my food/activity tracking app [FuelRight](https://shielded-river-03532.herokuapp.com/)) and creating new ones!
 - 🌱 Right now, I am learning about mobile development, Kotlin, and data structures
