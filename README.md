@@ -23,7 +23,7 @@
 **Description:** Rails/React SPA that allows users to log sleep, exercise, and consumed foods. FuelRight calculates the sleep duration and foods that enable the user to perform at their best. <br />
 **Video Demo:** [Loom]()
 
-* **Name: BeatMatch -- Github Link: [Repo](https://github.com/ryanhutzley/project-template-react-rails-api)** <br />
+* **Name: BeatMatch -- Github Link: [Repo](https://github.com/ryanhutzley/project-template-react-rails-api) -- Heroku Site: [BeatMatch](https://stormy-basin-28378.herokuapp.com/)** <br />
 **Description:** A social networking app designed to promote collaboration between rappers and music producers. This Rails/React application allows users to view and like other profiles. Reciprocated likes create a matches that the user can view in their "Matches" page. <br />
 **Video Demo:** [Loom]()
 
