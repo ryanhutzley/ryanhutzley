@@ -27,7 +27,7 @@
 **Description:** A social networking app designed to promote collaboration between rappers and music producers. This Rails/React application allows users to view and like other profiles. Reciprocated likes create a matches that the user can view in their "Matches" page. <br />
 **Video Demo:** [Loom]()
 
-* **Name: Pumping Flatiron -- Github Links: [Backend Repo](https://github.com/ryanhutzley/sinatra-API), [Frontend Repo](https://github.com/ryanhutzley/phase-3-project-frontend/tree/main/my-app)** <br />
+* **Name: Pumping Flatiron -- Github Links: [Backend Repo](https://github.com/ryanhutzley/sinatra-API), [Frontend Repo](https://github.com/ryanhutzley/phase-3-project-frontend/tree/main/my-app) -- Netlify Site: [Pumping Flatiron](https://www.pumpingflatiron.com)** <br />
 **Description:** A Sinatra/React gym membership application designed to improve the process of enrolling for workout classes. Users provide their time and class intensity/duration preferences on signup. The app recommends classes for the user based on these preferences. Other attendees for a class are visible to the user when browsing classes. <br />
 **Video Demo:** [Loom]()
 
