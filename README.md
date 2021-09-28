@@ -3,7 +3,7 @@
 ## I am a full-stack developer, book and movie lover, hiker, climber, and musician!
 
 - 🔭 I'm currently looking for work while improving past projects (like my food/activity tracking app [FuelRight](https://shielded-river-03532.herokuapp.com/)) and creating new ones!
-- 🌱 Right now, I am learning about mobile development, Kotlin, and data structures
+- 🌱 Right now, I am learning about mobile development, Python, Machine Learning, and data structures
 - 👯 I’m looking to collaborate with other developers to make something awesome in the mHealth or music space
 - ⚡ Fun fact: I love to play the guitar/keyboard and compose songs!
 
