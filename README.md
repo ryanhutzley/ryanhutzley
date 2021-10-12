@@ -2,7 +2,7 @@
 
 ## I am a full-stack developer, book and movie lover, hiker, climber, and musician!
 
-- 🔭 I'm currently looking for work while improving past projects (like my food/activity tracking app [FuelRight](https://shielded-river-03532.herokuapp.com/)) and creating new ones!
+- 🔭 I'm currently looking for work while improving past projects (like my food/activity/sleep tracking app [FuelRight](https://www.fuelright.app)) and creating new ones!
 - 🌱 Right now, I am learning about mobile development, Python, Machine Learning, and data structures
 - 👯 I’m looking to collaborate with other developers to make something awesome in the mHealth or music space
 - ⚡ Fun fact: I love to play the guitar/keyboard and compose songs!
@@ -19,15 +19,15 @@
 
 ## Projects
 
-* **Name: FuelRight -- Github Link: [Repo](https://github.com/ryanhutzley/fuel-right-backend-api) -- Heroku Site: [FuelRight](https://shielded-river-03532.herokuapp.com/)** <br />
+* **Name: FuelRight -- Github Link: [Repo](https://github.com/ryanhutzley/fuel-right-backend-api) -- Deployed Site: [fuelright.app](https://www.fuelright.app)** <br />
 **Description:** Rails/React SPA that allows users to log sleep, exercise, and consumed foods. FuelRight calculates the sleep duration and foods that enable the user to perform at their best. <br />
 **Video Demo:** [Loom](https://www.loom.com/share/4d80b606effd4eb5adc119cd253dff5a)
 
-* **Name: BeatMatch -- Github Link: [Repo](https://github.com/ryanhutzley/project-template-react-rails-api) -- Heroku Site: [BeatMatch](https://stormy-basin-28378.herokuapp.com/)** <br />
+* **Name: BeatMatch -- Github Link: [Repo](https://github.com/ryanhutzley/project-template-react-rails-api) -- Deployed Site: [beatmatch.us](https://www.beatmatch.us)** <br />
 **Description:** A social networking app designed to promote collaboration between rappers and music producers. This Rails/React application allows users to view and like other profiles. Reciprocated likes create a matches that the user can view in their "Matches" page. <br />
 **Video Demo:** [Loom](https://www.loom.com/share/d7c358a55fd7413199dd95b97fe92a09?sharedAppSource=personal_library)
 
-* **Name: Pumping Flatiron -- Github Links: [Backend Repo](https://github.com/ryanhutzley/sinatra-API), [Frontend Repo](https://github.com/ryanhutzley/phase-3-project-frontend) -- Netlify Site: [Pumping Flatiron](https://www.pumpingflatiron.com)** <br />
+* **Name: Pumping Flatiron -- Github Links: [Backend Repo](https://github.com/ryanhutzley/sinatra-API), [Frontend Repo](https://github.com/ryanhutzley/phase-3-project-frontend) -- Deployed Site: [pumpingflatiron.com](https://www.pumpingflatiron.com)** <br />
 **Description:** A Sinatra/React gym membership application designed to improve the process of enrolling for workout classes. Users provide their time and class intensity/duration preferences on signup. The app recommends classes for the user based on these preferences. Other attendees for a class are visible to the user when browsing classes. <br />
 **Video Demo:** [Loom](https://www.loom.com/share/814ab1161a7e40acaaa6d052ac5b1e1f?sharedAppSource=personal_library)
 
