@@ -12,10 +12,9 @@
 
 ## Connect with me:
 
-### Email: 📬 ryanhutzley@gmail.com, or...    
+### Email: 📬 ryanhutzley@gmail.com
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-hutzley-0246a8169/)        [![Medium](https://img.shields.io/badge/medium-0A0A0A?style=for-the-badge&logo=medium&logoColor=white)](https://ryanhutzley.medium.com/)          [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ryan_hutzley)
-
+### LinkedIn: 🤝 https://www.linkedin.com/in/ryan-hutzley-0246a8169/
 
 ## Projects
 
@@ -45,8 +44,7 @@
 <img  align="left" alt="Ruby" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" />
 <img  align="left" alt="Rails" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png" />
 <img  align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
-<img  align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/python.png" />
-<img  align="left" alt="Selenium" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/selenium.png" />
+<img  align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/python/python.png" />
 
 <br />
 <br />
