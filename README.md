@@ -4,7 +4,7 @@
 
 - 🔭 I'm currently looking for work while improving past projects (like my food/activity/sleep tracking app [FuelRight](https://www.fuelright.app)) and creating new ones!
 - 🌱 Right now, I am learning about mobile development, Python, Machine Learning, and data structures
-- 👯 I’m looking to collaborate with other developers to make something awesome in the mHealth or music space
+- 👯 I’m looking to collaborate with other developers to make peoples' lives easier
 - ⚡ Fun fact: I love to play the guitar/keyboard and compose songs!
 
 <!-- [![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanhutzley)](https://github.com/anuraghazra/github-readme-stats) -->
