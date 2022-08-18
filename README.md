@@ -3,7 +3,7 @@
 ## I am a full-stack developer, book and movie lover, hiker, climber, and musician!
 
 - 🔭 I'm currently looking for work while improving past projects (like my food/activity/sleep tracking app [FuelRight](https://www.fuelright.app)) and creating new ones!
-- 🌱 Right now, I am learning about mobile development, Python, Machine Learning, and data structures
+- 🌱 Right now, I am learning about Data Structures + Algorithms, Data Science + Engineering, and Machine Learning
 - 👯 I’m looking to collaborate with other developers to make peoples' lives easier
 - ⚡ Fun fact: I love to play the guitar/keyboard and compose songs!
 
