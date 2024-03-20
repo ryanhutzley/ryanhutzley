@@ -1,11 +1,10 @@
 # Hi there 👋 I'm Ryan!
 
-## I am a full-stack developer, book and movie lover, hiker, climber, and musician!
+## I love working with data, reading, hiking, watching movies, and playing the guitar!
 
-- 🔭 I'm currently looking for work while improving past projects (like my food/activity/sleep tracking app [FuelRight](https://www.fuelright.app)) and creating new ones!
+- 🔭 I'm currently looking for data engineering / data analyst roles to help businesses make better decisions!
 - 🌱 Right now, I am learning about Data Structures + Algorithms, Data Science + Engineering, and Machine Learning
 - 👯 I’m looking to collaborate with other developers to make peoples' lives easier
-- ⚡ Fun fact: I love to play the guitar/keyboard and compose songs!
 
 <!-- [![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanhutzley)](https://github.com/anuraghazra/github-readme-stats) -->
 
@@ -18,17 +17,11 @@
 
 ## Projects
 
-* **Name: FuelRight -- Github Link: [Repo](https://github.com/ryanhutzley/fuel-right-backend-api) -- Deployed Site: [fuelright.app](https://www.fuelright.app)** <br />
-**Description:** Rails/React SPA that allows users to log sleep, exercise, and consumed foods. FuelRight calculates the sleep duration and foods that enable the user to perform at their best. <br />
-**Video Demo:** [Loom](https://www.loom.com/share/4d80b606effd4eb5adc119cd253dff5a)
+* **Name: Support Vector Classification Demo -- Github Link: [Repo](https://github.com/ryanhutzley/SVC-Demo)** <br />
+**Description:** A linear SVC playground allowing users to manually label data points on a Cartesian plane, run the data through a SVC model on the backend, and see model output in real-time (React, Chart.js, scikit-learn, FastAPI). <br />
 
-* **Name: BeatMatch -- Github Link: [Repo](https://github.com/ryanhutzley/project-template-react-rails-api) -- Deployed Site: [beatmatch.us](https://www.beatmatch.us)** <br />
-**Description:** A social networking app designed to promote collaboration between rappers and music producers. This Rails/React application allows users to view and like other profiles. Reciprocated likes create a matches that the user can view in their "Matches" page. <br />
-**Video Demo:** [Loom](https://www.loom.com/share/d7c358a55fd7413199dd95b97fe92a09?sharedAppSource=personal_library)
-
-* **Name: Pumping Flatiron -- Github Links: [Backend Repo](https://github.com/ryanhutzley/sinatra-API), [Frontend Repo](https://github.com/ryanhutzley/phase-3-project-frontend) -- Deployed Site: [pumpingflatiron.com](https://www.pumpingflatiron.com)** <br />
-**Description:** A Sinatra/React gym membership application designed to improve the process of enrolling for workout classes. Users provide their time and class intensity/duration preferences on signup. The app recommends classes for the user based on these preferences. Other attendees for a class are visible to the user when browsing classes. <br />
-**Video Demo:** [Loom](https://www.loom.com/share/814ab1161a7e40acaaa6d052ac5b1e1f?sharedAppSource=personal_library)
+* **Name: Gage Sports -- Github Link: [Repo](https://github.com/ryanhutzley/gage-website)** <br />
+**Description:** A website showcasing client’s football & sports betting blogs, and advertising his football consulting company (React, Tailwind CSS, Webpack, React Query) <br />
 
 ## Languages and Tools:
 
